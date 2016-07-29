@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MavenModuleSSM.iml" filepath="$PROJECT_DIR$/MavenModuleSSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roger-ssm-service/roger-ssm-service.iml" filepath="$PROJECT_DIR$/roger-ssm-service/roger-ssm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roger-ssm-web-client/roger-ssm-web-client.iml" filepath="$PROJECT_DIR$/roger-ssm-web-client/roger-ssm-web-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roger-ssm-web-server/roger-ssm-web-server.iml" filepath="$PROJECT_DIR$/roger-ssm-web-server/roger-ssm-web-server.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="roger-ssm-web-server:war">
+    <output-path>$PROJECT_DIR$/roger-ssm-web-server/target</output-path>
+    <root id="archive" name="roger-ssm-web-server.war">
+      <element id="artifact" artifact-name="roger-ssm-web-server:war exploded" />
+    </root>
+  </artifact>
+</component>
